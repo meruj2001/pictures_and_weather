@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PicturesAndWeather</string>
+    <string name="pictures">Картинки</string>
+    <string name="signIn">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="previous"><![CDATA[< Prev]]></string>
+    <string name="next"><![CDATA[Next >]]></string>
+    <string name="weather_info">Город: %s \n
+                                    Темпереатура: %s °C \n
+                                    Облачность: %s \%% \n
+                                    Влажность: %s \%%
+    </string>
+</resources>
